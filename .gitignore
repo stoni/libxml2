@@ -1,0 +1,7 @@
+win32/Makefile
+win32/bin.msvc/*
+win32/config.msvc
+win32/int.a.dll.msvc/*
+win32/int.a.msvc/*
+win32/int.msvc/*
+win32/int.utils.msvc/*
